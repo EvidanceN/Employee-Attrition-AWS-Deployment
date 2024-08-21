@@ -26,9 +26,13 @@ Kaggle: [Employee Attrition](https://www.kaggle.com/datasets/stealthtechnologies
 #### Step-by-step guide
 
 1. Set up your AWS Management Console
-2. Create a SageMaker Notebook Instance
-3. Inside the SageMaker Notebook Instance create and launch a Jupyter notebook
-4. Go to s3 console and create an s3 bucket
+2. Prepare your data
+3. Create a SageMaker Notebook instance
+4. Prepare Your Notebook for Model Training
 5. Prepare data for training.
+6. Data Preprocessing
+7. Train Your Model
+8. Deploy the Model
+9. Make Predictions
 
 
